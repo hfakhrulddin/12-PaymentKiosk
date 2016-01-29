@@ -1,0 +1,13 @@
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\bin\Debug\PaymentKiosk.Core.dll
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\bin\Debug\PaymentKiosk.Core.pdb
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\bin\Debug\Stripe.net.dll
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\obj\Debug\PaymentKiosk.Core.csprojResolveAssemblyReference.cache
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\obj\Debug\PaymentKiosk.Core.dll
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\obj\Debug\PaymentKiosk.Core.pdb
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\bin\Debug\RestSharp.dll
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\bin\Debug\Twilio.Api.dll
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\bin\Debug\RestSharp.xml
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\bin\Debug\Twilio.Api.pdb
+C:\dev\Origin\12-PaymentKiosk\PaymentKiosk\PaymentKiosk.Core\bin\Debug\Twilio.Api.xml
